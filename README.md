@@ -9,7 +9,7 @@ It features 8 classes and an interface, each playing a distinct role in modeling
 
 - **Player:** Represents individual team players, with attributes like name, age, and position.
 
-- **Staff:** An abstract class that defines common attributes and behaviors for all team personnel, serving as a foundation for specialized subclasses such as Jogador (Player) and Treinador (Coach).
+- **Employee:** An abstract class that defines common attributes and behaviors for all team personnel, serving as a foundation for specialized subclasses such as Jogador (Player) and Treinador (Coach).
 
 - **Coach:** Represents the team’s coach, including their strategies 
 
